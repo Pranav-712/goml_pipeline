@@ -1,0 +1,11 @@
+spend_rank,entity_id,first_name,last_name,region,total_spend_usd,transaction_count,pct_of_total_usd,cumulative_pct_usd
+1,ffb8102d-9475-4bc9-9641-8cedd664d264,Emma,Silva,NORTH-WEST,1695.83,8,0.47,0.47
+2,11274cb2-b472-49b6-8f0c-e422a5eea4a2,Olivia,Rossi,WEST,1468.70,5,0.41,0.88
+3,2ef03a1b-645f-473c-9d0b-042de9b14c76,Zara,Johnson,NORTH-WEST,1371.66,7,0.38,1.26
+4,46e75a2c-3f6e-4d9d-a3cb-e943ca840003,Ananya,Kumar,CENTRAL,1365.89,7,0.38,1.64
+5,d5016ada-189a-435d-aa5f-89ca5bea530d,Emma,Brown,NORTH-WEST,1287.90,5,0.36,2.0
+6,0fd6f47e-f52d-4af2-a69e-d4c980599b93,Zara,Tanaka,SOUTH,1280.82,5,0.36,2.36
+7,b4ecfe8d-16d1-45ca-ad17-4fdd2dee003e,Aarav,Sharma,EAST,1279.55,7,0.36,2.72
+8,894e7397-b38a-4db1-a767-32d3a502dc4b,Maria,Miller,WEST,1252.30,7,0.35,3.06
+9,ec4e8cbb-a2aa-478c-a59e-0258814ff657,Olivia,Davis,NORTH-EAST,1249.87,7,0.35,3.41
+10,b69f68c3-e60f-4420-ac33-350c73b911d8,Liam,Smith,NORTH-EAST,1213.36,6,0.34,3.75

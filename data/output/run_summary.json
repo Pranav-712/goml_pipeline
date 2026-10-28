@@ -1,0 +1,32 @@
+{
+  "run_id": "ca9ddb75b85b",
+  "mode": "full",
+  "started_at": "2026-10-27T19:30:00+00:00",
+  "duration_s": 0.89,
+  "batches_loaded": [
+    "entities.csv",
+    "transactions.json"
+  ],
+  "batches_skipped": [],
+  "batches_transformed": 2,
+  "counts": {
+    "entities_valid": 940,
+    "entities_dlq": 60,
+    "transactions_valid": 4702,
+    "transactions_dlq": 298,
+    "bronze_entities": 940,
+    "bronze_transactions": 4702,
+    "silver_entities": 880,
+    "silver_transactions": 4335,
+    "silver_orphan_transactions": 367,
+    "dim_entity": 880,
+    "dim_date": 91,
+    "fact_transactions": 4335
+  },
+  "data_quality": {
+    "checks": 19,
+    "passed": 19,
+    "failed_errors": 0,
+    "failed_warnings": 0
+  }
+}

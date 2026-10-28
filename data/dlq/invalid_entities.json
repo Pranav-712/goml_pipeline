@@ -1,0 +1,722 @@
+[
+  {
+    "record": {
+      "entity_id": "3756999b-251a-4f0e-af94-da50e3f713a7",
+      "first_name": "Mei",
+      "last_name": "Garcia",
+      "contact_email": "mei@",
+      "registration_date": "2025-10-28T05:23:52",
+      "region": "north-east"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 19
+  },
+  {
+    "record": {
+      "entity_id": "e2280fe3-722d-4e13-87a4-8c4246653497",
+      "first_name": "Chen",
+      "last_name": "Rossi",
+      "contact_email": "chen@",
+      "registration_date": "2026-08-17T21:08:28",
+      "region": "WEST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 32
+  },
+  {
+    "record": {
+      "entity_id": "6b65450b-5c75-452c-85cd-b96b0d8a16f3",
+      "first_name": "Olivia",
+      "last_name": "Rossi",
+      "contact_email": "olivia@",
+      "registration_date": "2026-07-20T08:56:48",
+      "region": "Central"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 76
+  },
+  {
+    "record": {
+      "entity_id": "da003f16-b946-4bcf-8082-cbb948bddb3e",
+      "first_name": "Isabella",
+      "last_name": "Lopez",
+      "contact_email": "isabella.example",
+      "registration_date": "2024-12-14T16:31:58",
+      "region": "EAST"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 86
+  },
+  {
+    "record": {
+      "entity_id": "53cd6268-610c-4373-8299-9aa40cdf742b",
+      "first_name": "Lucas",
+      "last_name": "Rossi",
+      "contact_email": "lucas.example.com",
+      "registration_date": "2024-04-09T07:36:00",
+      "region": " North-East "
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 106
+  },
+  {
+    "record": {
+      "entity_id": "0c754a17-0131-4601-9923-fc7a0d6b160f",
+      "first_name": "Emma",
+      "last_name": "Davis",
+      "contact_email": "emma.example.com",
+      "registration_date": "2025-09-09T10:24:32",
+      "region": "north-east"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 117
+  },
+  {
+    "record": {
+      "entity_id": "5d037a06-4cad-46c5-9d65-5c032aa814da",
+      "first_name": "Omar",
+      "last_name": "Kumar",
+      "contact_email": "omar.example",
+      "registration_date": "2025-09-09T01:24:24",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 139
+  },
+  {
+    "record": {
+      "entity_id": "605fb1eb-4cc5-4e0d-a633-20186883ac6e",
+      "first_name": "Arjun",
+      "last_name": "Nair",
+      "contact_email": "arjun.example",
+      "registration_date": "2024-03-02T10:43:36",
+      "region": "WEST"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 146
+  },
+  {
+    "record": {
+      "entity_id": "69a53b4f-8ff8-469d-8ec0-713dea2c7a51",
+      "first_name": "Liam",
+      "last_name": "Davis",
+      "contact_email": "liam.example",
+      "registration_date": "2023-11-07T14:37:05",
+      "region": "south-west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 155
+  },
+  {
+    "record": {
+      "entity_id": "9abbe46b-b205-4cec-89f7-369fe4c1d210",
+      "first_name": "Ananya",
+      "last_name": "Davis",
+      "contact_email": "ananya.example",
+      "registration_date": "2025-10-24T02:57:22",
+      "region": "South-West"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 158
+  },
+  {
+    "record": {
+      "entity_id": "15956c42-27c0-4f89-9e3b-f1b34330125c",
+      "first_name": "John",
+      "last_name": "Patel",
+      "contact_email": "@example.com",
+      "registration_date": "2025-02-01T11:08:58",
+      "region": "WEST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 183
+  },
+  {
+    "record": {
+      "entity_id": "3e00980e-ae44-4e21-9258-64f225d4a0fc",
+      "first_name": "Omar",
+      "last_name": "Lopez",
+      "contact_email": "@example.com",
+      "registration_date": "2026-03-16T12:33:14",
+      "region": " North "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 208
+  },
+  {
+    "record": {
+      "entity_id": "ee0f65a8-2a13-4c1f-8cd0-15c1ad5900dd",
+      "first_name": "Arjun",
+      "last_name": "Patel",
+      "contact_email": "arjun.example.com",
+      "registration_date": "2023-12-06T13:08:55",
+      "region": "EAST"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 246
+  },
+  {
+    "record": {
+      "entity_id": "620af158-5d2d-404f-b8c5-90730bc57207",
+      "first_name": "Aarav",
+      "last_name": "Khan",
+      "contact_email": "aarav.example",
+      "registration_date": "2025-10-26T18:12:45",
+      "region": "south-west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 252
+  },
+  {
+    "record": {
+      "entity_id": "2e3bdb69-8c2d-4e27-8370-f2e2abeb5f49",
+      "first_name": "Omar",
+      "last_name": "Davis",
+      "contact_email": "omar.example",
+      "registration_date": "2023-12-05T12:42:30",
+      "region": "north-west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 263
+  },
+  {
+    "record": {
+      "entity_id": "61fe800a-b636-4c4c-9170-ca8aa00e0b60",
+      "first_name": "Ananya",
+      "last_name": "Lopez",
+      "contact_email": "ananya.example",
+      "registration_date": "2024-09-06T03:39:19",
+      "region": "west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 270
+  },
+  {
+    "record": {
+      "entity_id": "b652ae99-38b5-489a-8921-057c3f05557c",
+      "first_name": "Aarav",
+      "last_name": "Kumar",
+      "contact_email": "aarav@",
+      "registration_date": "2025-04-09T06:24:42",
+      "region": "EAST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 282
+  },
+  {
+    "record": {
+      "entity_id": "0a88e6ca-1dee-4b6d-bce7-5d1e2947fd26",
+      "first_name": "Sofia",
+      "last_name": "Brown",
+      "contact_email": "sofia.example",
+      "registration_date": "2026-02-10T03:26:52",
+      "region": "CENTRAL"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 289
+  },
+  {
+    "record": {
+      "entity_id": "6c6fa611-5ab3-4edf-ae59-5ed3a8b317fa",
+      "first_name": "Priya",
+      "last_name": "Patel",
+      "contact_email": "priya.example.com",
+      "registration_date": "2024-03-15T17:31:40",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 290
+  },
+  {
+    "record": {
+      "entity_id": "ef43613c-d4aa-49a3-bed8-c56cda09dfa0",
+      "first_name": "Noah",
+      "last_name": "Kumar",
+      "contact_email": "@example.com",
+      "registration_date": "2025-04-04T03:05:13",
+      "region": " West "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 305
+  },
+  {
+    "record": {
+      "entity_id": "c655a597-7ccc-43de-82ac-7e1dac565da6",
+      "first_name": "Olivia",
+      "last_name": "Kumar",
+      "contact_email": "olivia.example",
+      "registration_date": "2026-05-20T05:37:33",
+      "region": " Central "
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 312
+  },
+  {
+    "record": {
+      "entity_id": "2bde3c78-a931-4044-9f52-58abcf3a9723",
+      "first_name": "Fatima",
+      "last_name": "Miller",
+      "contact_email": "fatima.example",
+      "registration_date": "2026-06-16T15:11:09",
+      "region": "east"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 323
+  },
+  {
+    "record": {
+      "entity_id": "bccaba38-1e30-414f-8bf6-aa23a01e31f5",
+      "first_name": "Aarav",
+      "last_name": "Davis",
+      "contact_email": "@example.com",
+      "registration_date": "2024-06-30T04:25:31",
+      "region": "NORTH"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 353
+  },
+  {
+    "record": {
+      "entity_id": "bd44089d-9dd2-49de-bd98-fe336498abe9",
+      "first_name": "Arjun",
+      "last_name": "Rossi",
+      "contact_email": "arjun.example",
+      "registration_date": "2024-12-08T01:01:46",
+      "region": "North-West"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 356
+  },
+  {
+    "record": {
+      "entity_id": "0f6000f3-fef7-4410-9528-dc45637aa999",
+      "first_name": "Maria",
+      "last_name": "Lopez",
+      "contact_email": "maria@",
+      "registration_date": "2025-05-03T13:01:19",
+      "region": "North-West"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 388
+  },
+  {
+    "record": {
+      "entity_id": "1186da93-da7d-4c53-b020-cf0669b41194",
+      "first_name": "Isabella",
+      "last_name": "Johnson",
+      "contact_email": "isabella@",
+      "registration_date": "2026-01-21T08:57:23",
+      "region": " South "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 395
+  },
+  {
+    "record": {
+      "entity_id": "deda4e16-1b3d-4d5c-a9a1-fa6f81f76d1c",
+      "first_name": "Noah",
+      "last_name": "Rossi",
+      "contact_email": "noah.example.com",
+      "registration_date": "2023-12-22T21:19:42",
+      "region": "west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 410
+  },
+  {
+    "record": {
+      "entity_id": "2790cebd-bfdd-43d9-9ee3-ac2af94d6204",
+      "first_name": "Olivia",
+      "last_name": "Nair",
+      "contact_email": "olivia@",
+      "registration_date": "2025-11-29T13:03:14",
+      "region": "South-West"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 449
+  },
+  {
+    "record": {
+      "entity_id": "969b6662-0562-4059-968c-c69b1064005c",
+      "first_name": "Fatima",
+      "last_name": "Khan",
+      "contact_email": "fatima@",
+      "registration_date": "2025-08-02T19:14:18",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 467
+  },
+  {
+    "record": {
+      "entity_id": "0b458c23-eead-490c-8f9c-78bf010d583f",
+      "first_name": "Omar",
+      "last_name": "Patel",
+      "contact_email": "omar.example",
+      "registration_date": "2024-12-14T02:30:06",
+      "region": "North"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 490
+  },
+  {
+    "record": {
+      "entity_id": "f6f24d1c-5bb8-49c8-8932-59f31ee89a4c",
+      "first_name": "Arjun",
+      "last_name": "Nair",
+      "contact_email": "arjun@",
+      "registration_date": "2024-04-15T08:16:30",
+      "region": "NORTH-WEST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 499
+  },
+  {
+    "record": {
+      "entity_id": "996d5c50-fc04-4168-a52f-fb493873e57f",
+      "first_name": "Emma",
+      "last_name": "Garcia",
+      "contact_email": "emma.example",
+      "registration_date": "2026-10-12T12:03:26",
+      "region": "central"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 596
+  },
+  {
+    "record": {
+      "entity_id": "71cb19b3-4b88-445a-9582-de78c06a5949",
+      "first_name": "John",
+      "last_name": "Brown",
+      "contact_email": "@example.com",
+      "registration_date": "2025-07-12T22:14:19",
+      "region": " North "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 605
+  },
+  {
+    "record": {
+      "entity_id": "8c466308-3e62-4981-9ef1-a74f3d134526",
+      "first_name": "Ethan",
+      "last_name": "Nair",
+      "contact_email": "ethan.example",
+      "registration_date": "2024-02-13T05:31:33",
+      "region": "SOUTH"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 619
+  },
+  {
+    "record": {
+      "entity_id": "6bbdb66f-9181-4091-96c6-f45cdc5e4e78",
+      "first_name": "Liam",
+      "last_name": "Lopez",
+      "contact_email": "liam@",
+      "registration_date": "2025-11-08T02:21:04",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 642
+  },
+  {
+    "record": {
+      "entity_id": "d3293724-6dfd-471a-b7d7-465d37c3b3c9",
+      "first_name": "Isabella",
+      "last_name": "Lopez",
+      "contact_email": "isabella.example.com",
+      "registration_date": "2024-01-18T09:43:23",
+      "region": "NORTH-EAST"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 653
+  },
+  {
+    "record": {
+      "entity_id": "b40a9181-ac09-4db7-9908-6e477249f62c",
+      "first_name": "Zara",
+      "last_name": "Garcia",
+      "contact_email": "zara@",
+      "registration_date": "2025-06-13T17:53:22",
+      "region": " South-West "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 693
+  },
+  {
+    "record": {
+      "entity_id": "424d9430-b724-49b7-b10b-7fa9e9a0c20d",
+      "first_name": "Zara",
+      "last_name": "Patel",
+      "contact_email": "@example.com",
+      "registration_date": "2026-08-17T16:50:43",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 696
+  },
+  {
+    "record": {
+      "entity_id": "a8d99292-4a85-4443-bba8-78d934b55b86",
+      "first_name": "Mateo",
+      "last_name": "Silva",
+      "contact_email": "mateo.example.com",
+      "registration_date": "2024-04-09T17:24:30",
+      "region": "North-East"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 700
+  },
+  {
+    "record": {
+      "entity_id": "90019ed4-0bb4-41e7-a9f7-53f1501ba851",
+      "first_name": "Chen",
+      "last_name": "Miller",
+      "contact_email": "chen.example.com",
+      "registration_date": "2026-01-02T18:54:35",
+      "region": "Central"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 731
+  },
+  {
+    "record": {
+      "entity_id": "cb1b8eff-d02a-4cbb-89b4-094ae048f1de",
+      "first_name": "Omar",
+      "last_name": "Johnson",
+      "contact_email": "omar.example",
+      "registration_date": "2024-05-04T05:46:16",
+      "region": "north-west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 735
+  },
+  {
+    "record": {
+      "entity_id": "c227e0f2-0510-4943-be3e-b6f738b595b9",
+      "first_name": "Lucas",
+      "last_name": "Sharma",
+      "contact_email": "@example.com",
+      "registration_date": "2024-10-25T12:31:39",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 750
+  },
+  {
+    "record": {
+      "entity_id": "1445587e-6ff6-481f-b7dd-362b4a6b836b",
+      "first_name": "Omar",
+      "last_name": "Smith",
+      "contact_email": "omar@",
+      "registration_date": "2025-02-19T14:05:22",
+      "region": "EAST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 758
+  },
+  {
+    "record": {
+      "entity_id": "bc2e2b59-2c7d-4667-b664-c7202fddb26a",
+      "first_name": "Sofia",
+      "last_name": "Smith",
+      "contact_email": "sofia@",
+      "registration_date": "2024-09-15T18:01:14",
+      "region": "SOUTH-WEST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 762
+  },
+  {
+    "record": {
+      "entity_id": "ff08c739-4c1d-4e43-8c2b-03e443e1346d",
+      "first_name": "Chen",
+      "last_name": "Silva",
+      "contact_email": "chen@",
+      "registration_date": "2025-07-21T20:45:37",
+      "region": "South"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 766
+  },
+  {
+    "record": {
+      "entity_id": "bdce635f-bf90-4d6a-b5c6-06b54e003d55",
+      "first_name": "Isabella",
+      "last_name": "Smith",
+      "contact_email": "isabella@",
+      "registration_date": "2025-08-20T04:28:33",
+      "region": "east"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 771
+  },
+  {
+    "record": {
+      "entity_id": "1ba84a91-7462-4144-849b-9e6225ba4f03",
+      "first_name": "Omar",
+      "last_name": "Johnson",
+      "contact_email": "omar.example.com",
+      "registration_date": "2025-06-01T01:41:02",
+      "region": "north-west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 801
+  },
+  {
+    "record": {
+      "entity_id": "10fd7164-819f-4393-82ce-ef41b2cfba8b",
+      "first_name": "Priya",
+      "last_name": "Rossi",
+      "contact_email": "priya@",
+      "registration_date": "2024-06-17T21:34:40",
+      "region": " North-East "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 824
+  },
+  {
+    "record": {
+      "entity_id": "64bc08cf-2e90-4b5c-9e1b-015f6a1c701b",
+      "first_name": "Chen",
+      "last_name": "Smith",
+      "contact_email": "chen@",
+      "registration_date": "2025-07-25T18:44:43",
+      "region": "North"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 828
+  },
+  {
+    "record": {
+      "entity_id": "da9408c0-29b4-4cb1-8cb5-ee5c62f5f7c2",
+      "first_name": "Emma",
+      "last_name": "Sharma",
+      "contact_email": "emma.example.com",
+      "registration_date": "2025-07-30T19:55:47",
+      "region": "west"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 831
+  },
+  {
+    "record": {
+      "entity_id": "bc343d5d-df9e-4425-ba76-28e67394d796",
+      "first_name": "Ananya",
+      "last_name": "Kumar",
+      "contact_email": "ananya@",
+      "registration_date": "2025-05-12T13:11:02",
+      "region": "NORTH-EAST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 847
+  },
+  {
+    "record": {
+      "entity_id": "feb9ea24-933c-4d00-8680-0a0b42791490",
+      "first_name": "Zara",
+      "last_name": "Kumar",
+      "contact_email": "zara.example",
+      "registration_date": "2026-02-03T21:08:04",
+      "region": "North-West"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 852
+  },
+  {
+    "record": {
+      "entity_id": "7d824264-1ba3-42e7-afa4-15e56d204496",
+      "first_name": "Mei",
+      "last_name": "Lopez",
+      "contact_email": "mei.example.com",
+      "registration_date": "2026-05-30T16:33:31",
+      "region": "North-East"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 857
+  },
+  {
+    "record": {
+      "entity_id": "0f6b40d0-9efb-458b-9191-b3634e2d6645",
+      "first_name": "Emma",
+      "last_name": "Nair",
+      "contact_email": "@example.com",
+      "registration_date": "2025-08-27T20:43:33",
+      "region": "WEST"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 861
+  },
+  {
+    "record": {
+      "entity_id": "28670d3b-1c5f-4cba-950d-28eb93683dd6",
+      "first_name": "Emma",
+      "last_name": "Kumar",
+      "contact_email": "emma@",
+      "registration_date": "2023-12-04T19:51:51",
+      "region": "East"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 871
+  },
+  {
+    "record": {
+      "entity_id": "4fc77768-5ebb-4ca5-a84b-f9625744f596",
+      "first_name": "Ananya",
+      "last_name": "Davis",
+      "contact_email": "ananya@",
+      "registration_date": "2026-05-07T17:35:05",
+      "region": "east"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 887
+  },
+  {
+    "record": {
+      "entity_id": "797e3984-ded7-43ef-b5e4-a9c12d761ffa",
+      "first_name": "Zara",
+      "last_name": "Davis",
+      "contact_email": "zara@",
+      "registration_date": "2024-11-21T13:32:48",
+      "region": "Central"
+    },
+    "error": "contact_email: value is not a valid email address: There must be something after the @-sign.",
+    "source_row": 890
+  },
+  {
+    "record": {
+      "entity_id": "38eccb4d-b69f-4eab-b9ff-2c2957d9cbb0",
+      "first_name": "Ethan",
+      "last_name": "Wang",
+      "contact_email": "ethan.example.com",
+      "registration_date": "2024-10-23T01:01:46",
+      "region": "central"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 933
+  },
+  {
+    "record": {
+      "entity_id": "b525a4d9-83f0-43fd-80f2-baa4931b9fae",
+      "first_name": "Arjun",
+      "last_name": "Lopez",
+      "contact_email": "arjun.example",
+      "registration_date": "2024-02-21T03:37:26",
+      "region": "South-West"
+    },
+    "error": "contact_email: value is not a valid email address: An email address must have an @-sign.",
+    "source_row": 957
+  },
+  {
+    "record": {
+      "entity_id": "11654cb3-d4e9-4a65-822b-7e76ac3cbe34",
+      "first_name": "Arjun",
+      "last_name": "Sharma",
+      "contact_email": "@example.com",
+      "registration_date": "2024-07-07T15:56:35",
+      "region": " South "
+    },
+    "error": "contact_email: value is not a valid email address: There must be something before the @-sign.",
+    "source_row": 999
+  }
+]
